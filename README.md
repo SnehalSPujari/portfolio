@@ -1,2 +1,2 @@
 # portfolio
-Self designed react application
+Self designed react portfolio
